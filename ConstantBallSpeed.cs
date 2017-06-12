@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Ball : MonoBehaviour 
+public class ConstantBallSpeed : MonoBehaviour 
 {
 	
 	Rigidbody2D rb;
